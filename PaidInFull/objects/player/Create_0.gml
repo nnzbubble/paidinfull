@@ -1,5 +1,5 @@
 
-player_speed = 30/room_speed
+player_speed = 300/room_speed
 
 player_frame = 0
 

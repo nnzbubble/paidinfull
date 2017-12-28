@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite0,player_frame,x,y,1,1,mouse_direction,c_white,1)

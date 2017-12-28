@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "bf815a58-7cca-4e77-9685-61159ad2dc7e",
+            "Value": {
+                "id": "6d4248ed-6904-48f7-9356-29993ce17a2b",
+                "resourcePath": "sprites\\player_mask\\player_mask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a9c2dbec-41de-4aff-ae15-d59e75b7b8d5",

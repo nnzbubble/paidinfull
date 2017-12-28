@@ -51,3 +51,19 @@ if (player_dx != 0 || player_dy != 0)
 else
 	player_frame = 0
 
+
+//hit detection and recoiling
+if (bool_hit==1){  
+playerRecoil=1; // activates/how long the recoil effect lasts for
+}
+
+while(playerRecoil!=-1){
+    playerRecoil-=1;
+   direction = image_angle-180; //opposite direction that the player is currently facing
+   speed= recoilSpeed;
+}
+
+//death
+if hp <= 0{
+	game_end();
+}

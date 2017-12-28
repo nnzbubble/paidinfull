@@ -18,7 +18,7 @@
             "id": "9520cd7f-3382-40ad-948b-1bcd9694df17",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
@@ -35,7 +35,7 @@
             "m_owner": "d1fd02d3-6d52-4fa5-a4d5-39fbb7d03d7a"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "bf815a58-7cca-4e77-9685-61159ad2dc7e",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
